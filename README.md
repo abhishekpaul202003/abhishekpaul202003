@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @abhishekpaul202003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 About Me
+🎓 Full-Stack Developer from India with a passion for building robust web applications
+💻 Currently mastering Advanced React Patterns & Microservices Architecture
+📚 Learning System Design & Cloud Technologies
+🎮 Fun fact: I can solve a Rubik's cube while debugging code!
 
-<!---
-abhishekpaul202003/abhishekpaul202003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech Stack
+Core Technologies
+JavaScript React Node.js MongoDB Express
+
+Frontend
+HTML5 CSS3 TailwindCSS Redux
+
+Tools & Platforms
+Git GitHub VS Code Postman
